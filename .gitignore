@@ -1,0 +1,5 @@
+$ cat .gitignore
+/Unity_NodeEditor/*
+!/Unity_NodeEditor/Assets
+!/Unity_NodeEditor/ProjectSettings
+!/Unity_NodeEditor/Packages
